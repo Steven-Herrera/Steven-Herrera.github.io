@@ -4,8 +4,8 @@
 Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML Systems, Text Analytics, Stance Justification
 
 ## Education
-- M.S., Data Science|University of Houston - Clear Lake (_May 2023_)	 			        		
-- B.S., Physics|The University of Texas at Austin (_Aug 2019_)
+- M.S., Data Science | University of Houston - Clear Lake (_May 2023_)	 			        		
+- B.S., Physics | University of Texas at Austin (_Aug 2019_)
 
 ## Work Experience
 **Intern @ United States Securities and Exchange Commission (_September 2022 - Present_)**
@@ -27,6 +27,26 @@ Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML System
 - Learned key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau)
 - Learned how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms
 
+## Tech Stack
+#### Technologies
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+
+#### Frameworks/Libraries
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
+
+#### Tools
+![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+
 ## Projects
 ### Project 1
 [Link1](https://github.com/Steven-Herrera)
@@ -39,6 +59,12 @@ Description
 [Link2](https://github.com/Steven-Herrera)
 
 Description
+
+## Coursework
+#### Computer Science
+Data Structures, Scripting I (Python), Machine Learning, Big Data Analytics, Deep Learning
+#### Mathematics
+Probability, Applied Statistical Methods, Matrices and Matrix Calculations, Integral Calculus for Science, Calculus I, Advanced Calculus II, Multivariable Calculus, Differential Equations with Linear Algebra, Linear Models & Regression Analysis
 
 ## Social Media
 [<img src="assets/img/linkedin_logo.png" width="50" height="50">](https://www.linkedin.com/in/steven-herrera-40916912a/)
