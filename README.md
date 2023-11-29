@@ -4,7 +4,7 @@
 Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML Systems, Text Analytics, Stance Justification
 
 ## Education
-- M.S., Data Science|The University of Houston - Clear Lake (_May 2023_)	 			        		
+- M.S., Data Science|University of Houston - Clear Lake (_May 2023_)	 			        		
 - B.S., Physics|The University of Texas at Austin (_Aug 2019_)
 
 ## Work Experience
