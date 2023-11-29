@@ -48,10 +48,10 @@ Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML System
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ## Research Experience
-**Wolf Rayet Star Research	(_Sep 2017 - May 2019_)**
-Summer Undergraduate Research Fellowship
-Undergraduate Researcher, Advisors: Prof. Edward L. Robinson, Prof. Cynthia S. Froning
-&emsp; Worked on a long series of wolf-rayet star image observations looking for rapid short-term flux variability or stellar pulsations that can be used to infer interior stellar properties for important sources of chemical enrichment within the interstellar medium.
+**Wolf Rayet Star Research	(_Sep 2017 - May 2019_)**  
+Summer Undergraduate Research Fellowship  
+Undergraduate Researcher, Advisors: Prof. Edward L. Robinson, Prof. Cynthia S. Froning  
+&emsp;Worked on a long series of wolf-rayet star image observations looking for rapid short-term flux variability or stellar pulsations that can be used to infer interior stellar properties for important sources of chemical enrichment within the interstellar medium.
 
 ## Projects
 ### Project 1
