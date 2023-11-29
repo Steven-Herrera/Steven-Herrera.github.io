@@ -20,7 +20,7 @@ Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML System
 - Developed an AWS Lambda function to allow stakeholders to retrieve the model’s text classification inference by selecting two parameters from a static website’s dropdown menu
 - Implemented AWS API Gateway to allow an AWS Lambda function to communicate with a front-end static website
 
-## Certificattions
+## Certifications
 **[Data Analytics Certificate](https://www.credly.com/badges/edbd22ab-9f23-4e62-938d-2868c1b49822/linked_in_profile) Google (_July 2021_)**
 - Understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
 - Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
