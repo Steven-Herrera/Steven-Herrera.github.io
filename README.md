@@ -1,6 +1,7 @@
-# Data Scientist
+## Hi there 👋
 
-#### Technical Skills: Python, SQL, AWS
+## Research Interests
+Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML Systems, Text Analytics, Stance Justification
 
 ## Education
 - M.S., Data Science | The University of Houston - Clear Lake (_May 2023_)	 			        		
