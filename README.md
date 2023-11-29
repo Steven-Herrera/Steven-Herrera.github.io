@@ -40,5 +40,5 @@ Description
 Description
 
 ## Social Media
-[<img src="assets/img/linkedin_logo.png">](https://www.linkedin.com/in/steven-herrera-40916912a/)
-[<img src="assets/img/tiktok_logo.png">](https://www.tiktok.com/@datadeluge)
+[<img src="assets/img/linkedin_logo.png" width="100" height="100">](https://www.linkedin.com/in/steven-herrera-40916912a/)
+[<img src="assets/img/tiktok_logo.png" width="100" height="100">](https://www.tiktok.com/@datadeluge)
