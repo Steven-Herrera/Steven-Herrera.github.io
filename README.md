@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, SQL, AWS
 
-## Education							       		
+## Education
 - M.S., Data Science | The University of Houston - Clear Lake (_May 2023_)	 			        		
 - B.S., Physics | The University of Texas at Austin (_Aug 2019_)
 
