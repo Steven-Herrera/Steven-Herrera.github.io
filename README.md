@@ -54,7 +54,7 @@ Undergraduate Researcher
 Advisors: Prof. Edward L. Robinson, Prof. Cynthia S. Froning  
 * Worked on a long series of wolf-rayet star image observations looking for rapid short-term flux variability or stellar pulsations that can be used to infer interior stellar properties for important sources of chemical enrichment within the interstellar medium.
 
-## Projects
+<!-- ## Projects
 ### Project 1
 [Link1](https://github.com/Steven-Herrera)
 
@@ -66,6 +66,7 @@ Description
 [Link2](https://github.com/Steven-Herrera)
 
 Description
+-->
 
 ## Coursework
 #### Computer Science
