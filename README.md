@@ -1,7 +1,8 @@
 # Hi there 👋
 
 ## Research Interests
-Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML Systems, Text Analytics, Stance Justification
+Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML Systems, Text Analytics, Text Mining, Stance Justification, Sentiment Analysis, Document
+Out-of-Distribution (OOD) Detection, Dependency Parsing
 
 ## Education
 - M.S., Data Science | University of Houston - Clear Lake (_May 2023_)	 			        		
