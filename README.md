@@ -22,6 +22,11 @@ Out-of-Distribution (OOD) Detection, Dependency Parsing
 - Implemented AWS API Gateway to allow an AWS Lambda function to communicate with a front-end static website
 
 ## Certifications
+**[AWS Certified Cloud Practitioner](https://www.credly.com/badges/befa7f2e-a7d1-469f-b668-4f0fbdd2799a/linked_in_profile) Amazon Web Services (_April 2024_)**
+- Validates fundamental understanding of IT services and their uses in the AWS Cloud
+- Demonstrated cloud fluency and foundational AWS knowledge.
+- Able to identify essential AWS services necessary to set up AWS-focused projects
+
 **[Data Analytics Certificate](https://www.credly.com/badges/edbd22ab-9f23-4e62-938d-2868c1b49822/linked_in_profile) Google (_July 2021_)**
 - Understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
 - Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
@@ -78,3 +83,4 @@ Probability, Applied Statistical Methods, Matrices and Matrix Calculations, Inte
 ## Social Media
 [<img src="assets/img/linkedin_logo.png" width="50" height="50">](https://www.linkedin.com/in/steven-herrera-40916912a/)
 [<img src="assets/img/tiktok_logo.png" width="50" height="50">](https://www.tiktok.com/@datadeluge)
+[<img src="assets/img/credly_logo.png" width="50" height="50">](https://www.credly.com/users/steven-herrera.93db082b/badges)
