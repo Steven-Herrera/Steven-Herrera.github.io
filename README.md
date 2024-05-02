@@ -84,3 +84,4 @@ Probability, Applied Statistical Methods, Matrices and Matrix Calculations, Inte
 [<img src="assets/img/linkedin_logo.png" width="50" height="50">](https://www.linkedin.com/in/steven-herrera-40916912a/)
 [<img src="assets/img/tiktok_logo.png" width="50" height="50">](https://www.tiktok.com/@datadeluge)
 [<img src="assets/img/credly_logo.png" width="50" height="50">](https://www.credly.com/users/steven-herrera.93db082b/badges)
+[<img src="assets/img/dockerhub_logo.png" width="50" height="50">](https://hub.docker.com/u/stevenherrera)
