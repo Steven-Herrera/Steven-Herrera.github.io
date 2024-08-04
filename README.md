@@ -22,6 +22,21 @@ Out-of-Distribution (OOD) Detection, Dependency Parsing
 - Implemented AWS API Gateway to allow an AWS Lambda function to communicate with a front-end static website
 
 ## Certifications
+**[AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/03e2a11e-f13c-4eaa-a5bc-b76af2ba410d) Amazon Web Services (_August 2024_)**
+- Understanding of AWS services and technologies
+- Ability to build secure and robust solutions using architectural design principles based on customer requirements
+- Able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.
+
+**[Introduction to Kubernetes](https://www.credly.com/badges/a37fb06f-949d-42d6-a662-4e4e454ff34c/linked_in_profile) The Linux Foundation (_July 2024_)**
+- Ability to set up and manage a Kubernetes cluster using Minikube
+- Understanding of Kubernetes' architecture, components, and its evolution from monolithic to microservices architectures
+- Knowledge of how to implement container orchestration, manage volumes, and configure network services
+
+**[Docker Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/d09343ebb86cb8bd41de508d138a62aa6f73f4e78a32cf46f6e5e9918b9119cb?u=87254282) Docker, Inc (_June 2024_)**
+- Understanding of how Docker is used in software development
+- Demonstration of using containers in a real-world project
+- Knowledge of advanced deployment techniques with Docker Compose
+
 **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/befa7f2e-a7d1-469f-b668-4f0fbdd2799a/linked_in_profile) Amazon Web Services (_April 2024_)**
 - Validates fundamental understanding of IT services and their uses in the AWS Cloud
 - Demonstrated cloud fluency and foundational AWS knowledge.
