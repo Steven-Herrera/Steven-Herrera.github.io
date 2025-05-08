@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## Research Interests
-Natural Language Processing (NLP), Machine Learning (ML), Scalable NLP/ML Systems, Text Analytics, Text Mining, Stance Justification, Sentiment Analysis, Document
-Out-of-Distribution (OOD) Detection, Dependency Parsing
+Natural Language Processing (NLP), Machine Learning (ML), Large Language Models (LLMs), Retrieval Augmented Generation (RAG), LLM Red Teaming
 
 ## Education
+- Ph.D., Computer Science | Indiana University Bloomington (_May 2028_)
 - M.S., Data Science | University of Houston - Clear Lake (_May 2023_)	 			        		
 - B.S., Physics | University of Texas at Austin (_Aug 2019_)
 
@@ -75,14 +75,15 @@ Undergraduate Researcher
 Advisors: Prof. Edward L. Robinson, Prof. Cynthia S. Froning  
 * Worked on a long series of wolf-rayet star image observations looking for rapid short-term flux variability or stellar pulsations that can be used to infer interior stellar properties for important sources of chemical enrichment within the interstellar medium.
 
-<!-- ## Projects
-### Project 1
-[Link1](https://github.com/Steven-Herrera)
+## Projects
+### Real Time Forest Fire Detection with Compressed Deep Learning Models
+[Forest Fire Detection](https://github.com/Steven-Herrera/real-time-fire-detection)
 
-Description
+This project showcases an advanced model compression pipeline for real-time forest fire detection using binary image classification, combining **feature knowledge distillation** from high-performance teacher models (including ViT, DeiT, and Swin Transformer variants) into a lightweight **ShuffleNetV2 student model**, followed by **INT8 quantization** to optimize deployment efficiency. Designed to balance accuracy with resource constraints, the system demonstrates practical implementation of cutting-edge compression techniques—ideal for edge deployment scenarios. The visual verification of quantized model performance on test data highlights its readiness for production.
 
-![Image1](path/to/image)
+![FireImage](https://github.com/Steven-Herrera/real-time-fire-detection/blob/main/tests/benchmarks/sample_FLAME/1_Fire/resized_test_fire_frame0.jpg?raw=true)
 
+<!--
 ### Project 2
 [Link2](https://github.com/Steven-Herrera)
 
