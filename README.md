@@ -9,7 +9,7 @@ Natural Language Processing (NLP), Machine Learning (ML), Large Language Models 
 - B.S., Physics | University of Texas at Austin (_Aug 2019_)
 
 ## Work Experience
-**Intern @ United States Securities and Exchange Commission (_September 2022 - Present_)**
+**Intern @ United States Securities and Exchange Commission (_September 2022 - August 2024_)**
 - Developed a web scraper to collect and organize text data from the SEC website where the text may present as a PDF, TXT, HTML, or XML files
 - Analyzed text using word clouds, readability metrics, and distribution tests such as normal distribution testing and Kolmogorov-Smirnov testing
 - Optimized a probability calibrated ordinal NLP/ML model on imbalanced data that accurately classified text
